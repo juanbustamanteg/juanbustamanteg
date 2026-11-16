@@ -2,8 +2,6 @@
 
 Senior Product Manager in fintech: payments, identity, lending and platforms built for many markets. 8+ years taking products from discovery to launch.
 
-A working prototype tests the reasoning before a team commits to a roadmap, so I build them.
-
 **[Portfolio](https://juanbustamanteg.github.io)** · **[Resume](https://juanbustamanteg.github.io/resume/)** · **[LinkedIn](https://www.linkedin.com/in/productmanagerjuan/)**
 
 ## Selected work
